@@ -9,12 +9,13 @@
         android:layout_height="wrap_content"
         android:id="@+id/txt_NombreSensor"
         tools:text="Hola"
-        android:textSize="30sp" />
+        android:textSize="24sp"
+        android:textStyle="normal|bold" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/txt_Vendor"
         tools:text="Vendor"
-        android:textSize="24sp" />
+        android:textSize="16sp" />
 </LinearLayout>

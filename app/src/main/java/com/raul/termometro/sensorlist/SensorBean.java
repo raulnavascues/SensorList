@@ -8,6 +8,7 @@ public class SensorBean {
     private String nombreSensor;
     private String fabricanteSensor;
 
+
     public SensorBean() {
         this.setNombreSensor("");
         this.setFabricanteSensor("");
